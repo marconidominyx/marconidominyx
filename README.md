@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I’m Khoni 👋  
 
-<!--
-**marconidominyx/marconidominyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an **IT student** and aspiring **developer**, passionate about building, learning, and growing one step at a time.  
+I enjoy turning ideas into real projects, experimenting with code, and exploring how tech can make life better.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I’m Up To
+- 🌱 Currently learning **Laravel, Django, and modern web development**
+- 🛠️ Exploring **GitHub Copilot** & open-source collaboration
+- 📚 Working on academic projects and personal builds to level up my portfolio
+
+---
+
+### 🧰 Tech & Tools I Use
+- **Languages:** Python, PHP, JavaScript, C  
+- **Frameworks & Tools:** Laravel, Django, React, Node.js (beginner)  
+- **Other Skills:** Social Media Management, Community Building, Data Analysis  
+
+---
+
+### 🤝 Let’s Connect
+- Portfolio: [marconidominyx.github.io/portfolio](https://marconidominyx.github.io/portfolio/)  
+- Email: marconidominyx@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/marconi-dominyx-asis-07229135a/  
+
+---
+
+⭐️ *“You belong. You matter. You make a difference.”*  
