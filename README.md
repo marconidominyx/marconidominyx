@@ -1,39 +1,31 @@
 # Hi there, I’m Khoni 👋  
-I’m an **IT student** and aspiring **developer**, passionate about building, learning, and growing one step at a time. I enjoy turning ideas into real projects, experimenting with code, and exploring how tech can make life better.
+I am an **IT student** and an aspiring **builder**, approaching the world of development one mindful step at a time. My journey is about learning, growing, and turning simple ideas into purposeful digital creations. I believe technology should make life clearer and better.
 
 ---
 
-### 🚀 What I’m Up To
-- 🌱 Currently learning **Laravel, Django, and modern web development**
-- 🛠️ Exploring **GitHub Copilot** & open-source collaboration
+### 🚀 The Current Focus
+- 🌱 Deeply learning **Django, Laravel**, and the principles of modern, simple web architecture.
+- 🛠️ Exploring GitHub Copilot to understand intelligent coding assistance, and engaging in open-source collaboration to learn from the community.
 - 🎮 Researching **crypto/NFT games** and optimizing PC performance
-- ✍️ Writing **faith-centered letters and poetry** to uplift and inspire
+- ✍️ Focusing on seamless **digital organization**, mastering tools like email syncing, and efficient account troubleshooting for a friction-free workflow.
 
 ---
 
 ### 🧰 Tech & Tools I Use
-- **Languages:** Python, PHP, JavaScript, C  
-- **Frameworks & Tools:** Laravel, Django, React, Node.js (beginner)  
+- **Languages:** Python (for robust back-end logic), PHP, JavaScript, C
+- **Frameworks & Tools:** Laravel & Django (my current deep dives), React & Node.js (new beginner paths)
 - **Other Skills:** Social Media Management, Community Building, Data Analysis  
-- **Workflow Strengths:** Email syncing, account troubleshooting, digital organization
+- **Support Skills:** Experience in Community Building, Social Media Management, and foundational Data Analysis
 
 ---
 
-### 🎮 Crypto Gaming & Optimization
-I explore play-to-earn mechanics and performance tweaks for PC gaming. Whether it’s grinding sessions, hardware balancing, or maximizing in-game rewards, I love finding smarter ways to play.
+### Grounded Passions
+My life isn't just code. These are the practices that keep me balanced and purposeful.
 
 ---
 
-### ✍️ Creative & Faith-Centered Writing
-I write heartfelt letters and poetry rooted in faith and love — especially for someone very dear to me. My writing blends emotion, scripture, and encouragement to bring light to others.
-
----
-
-### 🧭 What’s Next
-- 🔧 Build a Laravel-based portfolio site with dynamic content
-- 📦 Create a GitHub repo for my letters and poems
-- 🧠 Learn advanced React and deploy a full-stack app
-- 🛠️ Share troubleshooting guides for email/account syncing
+### ✍️ The Poetry of Faith
+I dedicate time to creative, heartfelt writing. These are faith-centered letters and poetry woven with emotion and scripture, intended to uplift, encourage, and express a deep, sincere love. It is a practice of bringing light and reflection into the digital world.
 
 ---
 
