@@ -39,4 +39,4 @@ Let's connect and build something impactful together.
 
 ---
 
-⭐️ *“You belong. You matter. You make a difference.”* (This is the powerful foundation of the movement.)
+⭐️ *“You belong. You matter. You make a difference.”*
