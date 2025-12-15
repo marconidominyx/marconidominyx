@@ -1,42 +1,44 @@
-# Hi there, I’m Khoni 👋  
-I am an **IT student** and an aspiring **builder**. My journey is about learning, growing, and turning ideas into **purposeful digital creations** that bring clarity and positive impact to the world.
+## Hi there, I’m Khoni.
+
+I am an **IT student** and an aspiring **builder**. My work centers on learning, growing, and transforming ideas into **purposeful digital creations** that bring clarity and positive impact to the world.
 
 ---
 
-### 🚀 The Current Mission: Building with Intention
-My focus is on leveling up the skills needed to build solutions that matter, always approaching development one mindful step at a time.
+### The Current Mission: Building with Intention
 
-- 🌱 Deepening my knowledge in **modern web architecture** and core programming principles.
-- 🛠️ Exploring intelligent coding assistance and engaging in open-source collaboration to learn from the community.
-- 💡 Focusing on seamless **digital organization** and optimizing workflows for a friction-free process.
-- 🌍 **Building a better future**, one project at a time.
+My focus is on developing the foundational skills needed to build meaningful solutions, approaching every step mindfully.
+
+* Deepening my knowledge in **modern web architecture** and core programming principles.
+* Exploring intelligent coding assistance and engaging in open-source collaboration.
+* Focusing on **digital organization** and optimizing workflows for a friction-free process.
+* Building a better future, one project at a time.
 
 ---
 
-### 🧰 Tech & Tools I Use
+### Tech and Tools
+
 I bridge technical skills with community focus.
 
-- **Languages:** Python, PHP, JavaScript, C
-- **Frameworks & Concepts:** Key web frameworks, React, Node.js, Data Analysis fundamentals
-- **Support Skills:** Virtual Assistance, Community Building, Social Media Management
+* **Languages:** Python, PHP, JavaScript, C
+* **Concepts:** Key web frameworks, React, Node.js, Data Analysis fundamentals
+* **Support Skills:** Virtual Assistance, Community Building, Social Media Management
 
 ---
 
-### 💫 Grounded Passions
-My life isn't just code. These are the practices that keep me balanced and purposeful.
+### Grounded Passions: The Poetry of Faith
 
-### The Poetry of Faith
-I dedicate time to creative, heartfelt writing. This is a practice of bringing light and reflection into the digital world through faith-centered poetry and sincere encouragement.
+My life includes a practice of creative, heartfelt writing. I dedicate time to bringing light and reflection into the digital world through faith-centered poetry and sincere encouragement.
 
 ---
 
-### 🤝 Join the Mission
+### Connect
+
 Let's connect and build something impactful together.
 
-- 🌐 Portfolio: [marconidominyx.github.io/portfolio](https://marconidominyx.github.io/portfolio/)
-- 📧 Email: marconidominyx@gmail.com  
-- 💼 LinkedIn: [Marconi Dominyx Asis](https://www.linkedin.com/in/marconi-dominyx-asis-07229135a/)
+* Portfolio: [marconidominyx.github.io/portfolio](https://marconidominyx.github.io/portfolio/)
+* Email: marconidominyx@gmail.com
+* LinkedIn: [Marconi Dominyx Asis](https://www.linkedin.com/in/marconi-dominyx-asis-07229135a/)
 
 ---
 
-⭐️ *“You belong. You matter. You make a difference.”*
+"You belong. You matter. You make a difference."
