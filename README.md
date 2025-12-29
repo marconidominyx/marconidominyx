@@ -15,14 +15,13 @@ My work is about turning simple ideas into clean, usable systems that make sense
 
 ## How I Work
 
-I value clarity, consistency, and responsibility in everything I build.  
-I prefer steady progress over shortcuts and believe good work should be simple, understandable, and useful.
-
-I work best in environments where purpose matters and people come first.
+- I value clarity, consistency, and responsibility in everything I build.  
+- I prefer steady progress over shortcuts and believe good work should be simple, understandable, and useful.
+- I work best in environments where purpose matters and people come first.
 
 ## Beyond Code
 
-I write faith-centered poetry and reflections to stay grounded and bring encouragement into digital spaces.  
+- I write faith-centered poetry and reflections to stay grounded and bring encouragement into digital spaces.  
 Building, for me, is not just technical. It is also personal and purposeful.
 
 ## Connect
