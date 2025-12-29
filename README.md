@@ -1,29 +1,34 @@
 # Hi, I’m Khoni
 
-I’m an **IT student** and aspiring **builder**, learning step by step and turning simple ideas into **purposeful digital work** that brings clarity and positive impact.
+I’m an **IT student** and aspiring **builder**, focused on creating **purposeful digital work** that brings clarity, structure, and positive impact.
 
-## Current Focus
+I care less about noise and more about making things that actually serve people.
 
-I’m building with intention and patience, aiming to create things that actually matter.
+## What I Build
 
-* Learning modern web foundations and core programming concepts
-* Exploring open-source work and smart development tools
-* Improving digital organization and clean workflows
+I approach building with patience and intention.  
+My work is about turning simple ideas into clean, usable systems that make sense and last.
 
-## Skills
+- Practical digital tools and web projects  
+- Thoughtful, organized workflows  
+- Community-driven and support-focused platforms  
 
-* **Languages:** Python, PHP, JavaScript, C
-* **Tech:** Web frameworks, React, Node.js, basic data analysis
-* **Strengths:** Community building, virtual assistance, social media support
+## How I Work
+
+I value clarity, consistency, and responsibility in everything I build.  
+I prefer steady progress over shortcuts and believe good work should be simple, understandable, and useful.
+
+I work best in environments where purpose matters and people come first.
 
 ## Beyond Code
 
-I write faith-centered poetry and reflections as a way to stay grounded and bring encouragement into the digital space.
+I write faith-centered poetry and reflections to stay grounded and bring encouragement into digital spaces.  
+Building, for me, is not just technical. It is also personal and purposeful.
 
 ## Connect
 
-* Portfolio: [https://marconidominyx.github.io/portfolio/](https://marconidominyx.github.io/portfolio/)
-* Email: [marconidominyx@gmail.com](mailto:marconidominyx@gmail.com)
-* LinkedIn: [https://www.linkedin.com/in/marconi-dominyx-asis-07229135a/](https://www.linkedin.com/in/marconi-dominyx-asis-07229135a/)
+- Portfolio: https://marconidominyx.github.io/portfolio/  
+- Email: marconidominyx@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/marconi-dominyx-asis-07229135a/
 
 *You belong. You matter. You make a difference.*
