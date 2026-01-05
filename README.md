@@ -26,7 +26,7 @@ Building, for me, is not just technical. It is also personal and purposeful.
 
 ## Connect
 
-- Portfolio: https://marconidominyx.github.io/portfolio/  
+- Portfolio: https://khoni.tech/
 - Email: marconidominyx@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/marconi-dominyx-asis-07229135a/
 
