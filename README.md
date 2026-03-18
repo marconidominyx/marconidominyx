@@ -1,6 +1,6 @@
 # Hi, I’m Khoni
 
-I’m an **IT student** and aspiring **builder**, focused on creating **purposeful digital work** that brings clarity, structure, and positive impact.
+I’m an **IT** and aspiring **builder**, focused on creating **purposeful digital work** that brings clarity, structure, and positive impact.
 
 I care less about noise and more about making things that actually serve people.
 
