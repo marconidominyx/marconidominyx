@@ -1,33 +1,20 @@
-# Hi, I’m Khoni
+# Hi, I’m Khoni.
 
-I’m an **IT** and aspiring **builder**, focused on creating **purposeful digital work** that brings clarity, structure, and positive impact.
+**IT Professional | Digital Builder | Purpose-Driven Creator**
 
-I care less about noise and more about making things that actually serve people.
+I build clean, usable systems that replace digital noise with clarity and structure. My focus isn't just on the code, but on the people it serves.
 
-## What I Build
+### 🛠️ What I Focus On
+* **Purposeful Tools:** Building practical web projects and digital systems.
+* **Structured Workflows:** Designing organized, long-lasting digital environments.
+* **Community Impact:** Creating platforms that support and empower.
 
-I approach building with patience and intention.  
-My work is about turning simple ideas into clean, usable systems that make sense and last.
+### 🧭 My Philosophy
+I value **patience over shortcuts** and **clarity over complexity**. Whether I’m writing code or faith-centered poetry, I aim to bring intentionality and encouragement into every space I inhabit.
 
-- Practical digital tools and web projects  
-- Thoughtful, organized workflows  
-- Community-driven and support-focused platforms  
+---
 
-## How I Work
+### 🌐 Connect with Me
+[**Portfolio**](https://khoni.tech/) • [**LinkedIn**](https://linkedin.com/in/marconidominyxasis) • [**Email**](mailto:marconidominyx@gmail.com)
 
-- I value clarity, consistency, and responsibility in everything I build.  
-- I prefer steady progress over shortcuts and believe good work should be simple, understandable, and useful.
-- I work best in environments where purpose matters and people come first.
-
-## Beyond Code
-
-- I write faith-centered poetry and reflections to stay grounded and bring encouragement into digital spaces.  
-Building, for me, is not just technical. It is also personal and purposeful.
-
-## Connect
-
-- Portfolio: https://khoni.tech/
-- Email: marconidominyx@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/marconi-dominyx-asis-07229135a/
-
-*You belong. You matter. You make a difference.*
+> *You belong. You matter. You make a difference.*
