@@ -1,6 +1,6 @@
 # Hi, I'm Khoni
 
-Business Operations Specialist, Virtual Assistant, and Full-Stack Developer based in Butuan City, Philippines, working remote.
+Business Operations Specialist, Virtual Assistant, and AI Full-Stack Engineer based in Butuan City, Philippines, working remote.
 
 I build systems that ship: client products running in production, internal tools that remove busywork, and community platforms people actually use. My background sits across business operations and development, so I tend to care as much about the workflow around a product as the product itself.
 
