@@ -33,6 +33,12 @@ I build systems that ship: production web applications, cross-platform mobile ap
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
+**Operations, CRM & Automations:**  
+![HubSpot](https://img.shields.io/badge/-HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white)
+![GoHighLevel](https://img.shields.io/badge/-GoHighLevel-3064E8?style=flat-square&logo=target&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
 ---
 
 ## 🚀 Currently Building & Shipping
@@ -50,7 +56,7 @@ I build systems that ship: production web applications, cross-platform mobile ap
 ## 💻 Selected Projects
 
 * **[Splinterlands Battle Helper](https://github.com/marconidominyx)** — Automated Hive blockchain battle assistant & strategic lineup engine parsing real-time matchmaking, rulesets, and player history (`TypeScript`, `@hiveio/dhive`, `Node.js`).
-* **[HzenAI Lead Generator](https://github.com/marconidominyx)** — Desktop GUI & CLI lead-generation crawler merging Yelp Fusion API, OpenStreetMap, and Overture Maps with automated email verification and CRM export (`Python`, `Tkinter`, `aiohttp`, `BeautifulSoup`).
+* **[HzenAI Lead Generator](https://github.com/marconidominyx)** — Desktop GUI & CLI lead-generation crawler merging Yelp Fusion API, OpenStreetMap, and Overture Maps with automated email verification and CRM export (`Python`, `Tkinter`, `HubSpot / GSD`, `aiohttp`, `BeautifulSoup`).
 * **[Virtual Nature Walk](https://virtual-walk-simple-game.vercel.app/)** — 3D interactive countryside village and train simulation game (`Three.js`, `WebGL`).
 * **[Executive Founder Portfolio](https://simalsoinoberoi.com/)** & **[Executive Virtual Assistant](https://stripe-maryphel.vercel.app/)** — Founder brand, editorial insights, and Stripe-integrated booking platforms (`SvelteKit`, `Stripe`).
 * **[Urians](https://urians.khoni.tech/)** — Centralized full-stack community platform for a university student organization.
